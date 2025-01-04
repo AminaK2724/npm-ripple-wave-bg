@@ -7,7 +7,27 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "npx babel src --out-dir dist --extensions .js"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "background",
+    "ripple",
+    "wave",
+    "animation",
+    "canvas",
+    "interactive",
+    "effect",
+    "water",
+    "fluid",
+    "react-component",
+    "background-effect",
+    "ui",
+    "motion",
+    "visual",
+    "customizable",
+    "react-animation",
+    "react-ui",
+    "interactive-design"
+  ],
   "author": "Amina Fatma Khan",
   "license": "ISC",
   "devDependencies": {
