@@ -1,6 +1,4 @@
-
-
-# npm-ripple-wave-bg
+# [npm-ripple-wave-bg](https://www.npmjs.com/package/npm-ripple-wave-bg)
 
 A **lightweight, customizable ripple background** component for React applications. Create beautiful **interactive water ripple effects** dynamically.
 
