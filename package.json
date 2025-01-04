@@ -1,6 +1,6 @@
 {
   "name": "npm-ripple-wave-bg",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Reusable ripple background",
   "main": "dist/index.js",
   "scripts": {
